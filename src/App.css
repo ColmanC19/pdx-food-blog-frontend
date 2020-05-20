@@ -70,7 +70,8 @@ nav a:hover {
 }
 
 #add-comment-form {
-  border-bottom: 2px solid black;
+  border: 2px solid black;
+  border-radius: 75%;
   padding: 16px;
 }
 
@@ -91,15 +92,21 @@ nav a:hover {
 
 #add-comment-form button {
   width: 320px;
+  border-radius: 75%;
+
 }
 
 #upvotes-section button, p {
   display: inline-block;
   margin-right: 16px;
+  
 }
 
 .comment {
-  border-bottom: 2px solid black;
+  border: 2px solid black;
   padding: 16px;
+  border-radius: 12px;
+  max-width: 50%;
+
 }
 
