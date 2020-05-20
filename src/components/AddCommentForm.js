@@ -14,6 +14,8 @@ const AddCommentForm = ({ articleName, setArticleInfo}) => {
         });
         const body = await result.json();
         setArticleInfo(body);
+        setUsername('');
+        setCommentText('');
     }
     return(
     <div className="add-comment-form">
