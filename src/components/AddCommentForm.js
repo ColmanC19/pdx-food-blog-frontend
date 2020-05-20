@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 
+
+
+
 const AddCommentForm = ({ articleName, setArticleInfo}) => {
     const [username, setUsername] = useState('');
     const [commentText, setCommentText] = useState('');
@@ -19,7 +22,6 @@ const AddCommentForm = ({ articleName, setArticleInfo}) => {
     }
     return(
     <div className="add-comment-form">
-        <h3>Comment Here</h3>
         <label>
             name:
             <input type="text" value={username} onChange={(event) => setUsername(event.target.value)} />

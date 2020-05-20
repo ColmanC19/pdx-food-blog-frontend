@@ -7,6 +7,7 @@ import UpvotesSection from '../components/UpvotesSection';
 import AddCommentForm from '../components/AddCommentForm';
 
 
+
 const ArticlePage = ({ match }) => {
     const name = match.params.name;
     const article = articleContent.find(article => article.name === name);
