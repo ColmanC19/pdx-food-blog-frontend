@@ -10,7 +10,7 @@ const UpvotesSection = ({ articleName, upvotes, setArticleInfo }) => {
     }
     return (
         <div id="upvotes-section">
-            <button onClick={() => upvoteArticle()}>Add Upvote</button>
+            <button  onClick={() => upvoteArticle()}>Add Upvote</button>
             <p> {upvotes} Upvotes</p>
         </div>
     );

@@ -24,8 +24,10 @@ const AddCommentForm = ({ articleName, setArticleInfo}) => {
     <div className="add-comment-form">
         <label>
             name:
+            <br/>
             <input type="text" value={username} onChange={(event) => setUsername(event.target.value)} />
         </label>
+        <br/>
         <label>
             comment:
             <textarea rows="4" cols="50" value={commentText} onChange={(event) => setCommentText(event.target.value)} />
