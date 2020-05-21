@@ -27,25 +27,41 @@ const articles = [
         name: 'criminally-underrated',
         title: "Hidden Gems that don't get the credit they deserve",
         content: [
-            `It's a strange world we live in today. Here's my guide to take out, tipping 
-            and everything in between. As proin congue dui in facilisis aliquet
-            ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
-            Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
-            non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut 
-            eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at 
-            sodales purus euismod.`,
-            `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-            Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-            nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-            sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-            interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-            consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-            `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-            Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
-            nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-            sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-            interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-            consequat quam. Vivamus accumsan.`,
+            `Here are some of the hidden gems in Portland`,
+            `1) Reel m'Inn
+            2430 SE Division St 
+            Open 10A-2:30A Daily`, 
+            `Go for the pressure cooked chicken(that you coulda swore was deep fried)
+             and stay for the ambiance. A good ole fashoined dive bar 
+             in the classic sense. Warning, the chicken takes a long time.
+             That'll give you more time to work up an appetite while you 
+             play pool or catch a game.`,
+            `2) 2) Roscoes`,
+            `8105 SE Stark St Open 11A-2:30A Daily`,
+            `A criminally underrated beer bar (way back in 2014 they 
+            were the first to have crux on draft) that serves some dang good
+            down home fare. Po boys, shrimp n grits, and whatever you do, 
+            get the mac and cheese. The large order. `,
+            `3) Chameleon`,
+            `2000 NE 40th Ave Open 5P-10P Wed-Sat`,
+            `True to its name, this restaurant offers something for 
+            everybody. Teryaki chicken? Yup. Beef stroganoff? Check.
+            Enchiladas? You betcha. At reasonable prices and a casual 
+            dining room atmosphere it should be illegal to not go.`,
+            `4) Please Louise`,
+            `1505 NW 21st Ave Open 11A-10P Tue-Sat, 4P-10P Sun/Mon`,
+            `Perfect for a 1st or 100th date. Or grabbing a pie after 
+            a timbers game. Or really for just about any occasion. Delicious 
+            wood fired pies, fresh salads and sensibly priced wine. Don't
+            tease yourself, Please Louise yourself stat.`,
+            `5) The Waiting Room`,
+            `22327 NW Kearney St Open 4P-9P Tue-Sat`,
+            `Andouille Jambalaya, frog legs, fried catfish. This is true 
+            louisianna fare. And the service is what you would expect from 
+            our gentile hosts down south. Sip a sazerac while you pop
+            hushpuppies down your gullet and you'll be sure to sleep 
+            soundly, dreaming of that ooey gooey mac and cheese.`,
+            `Written by: Colman Currie`,
 
         ]
     },     {
